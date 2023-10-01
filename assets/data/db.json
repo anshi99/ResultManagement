@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "first_name": "Shreya",
+      "last_name": "Singh",
+      "user_type": "teacher"
+    },
+    {
+      "id": 2,
+      "username": "jojo",
+      "password": "jojo",
+      "first_name": "Shorya",
+      "last_name": "Kumar",
+      "user_type": "student"
+    }
+  ],
+  "results": [
+    {
+      "name": "Tarun Jain",
+      "dob": "03/01/1999",
+      "score": "89",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Suman Sharma",
+      "dob": "11/05/1997",
+      "score": "95"
+    },
+    {
+      "id": "3",
+      "name": "Ruby Singh",
+      "dob": "29/06/1997",
+      "score": "85"
+    },
+    {
+      "id": "4",
+      "name": "Kuruk Tiwari",
+      "dob": "03/04/1999",
+      "score": "75"
+    },
+    {
+      "id": "5",
+      "name": "Priyam Kumar",
+      "dob": "21/08/1997",
+      "score": "87"
+    },
+    {
+      "id": "6",
+      "name": "Krish Gupta",
+      "dob": "31/01/1999",
+      "score": "89"
+    }
+  ]
+}
